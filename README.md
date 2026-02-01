@@ -2,7 +2,7 @@
 
 This project is an SAP ABAP Module Pool application designed to manage Faculty and Student details. It provides a user-friendly interface for registration, login, and data management based on user roles.
 
-## Project Overview   
+## Project Overview    
 
 The application streamlines the process of maintaining records for an educational institution. It classifies users into two categories:
 - **Faculty**: Can view and manage both faculty and student details.
